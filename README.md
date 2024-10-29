@@ -1,1 +1,1 @@
-# Sistemas-multiagentes-con-gr-ficas-computacionales
+# Sistemas multiagentes con gráficas computacionales
